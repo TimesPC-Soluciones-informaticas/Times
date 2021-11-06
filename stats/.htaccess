@@ -1,0 +1,7 @@
+AuthName "times.com.ar statistics"
+AuthType Basic
+AuthUserFile /home/times.com.ar/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>
