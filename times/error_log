@@ -1,4 +1,0 @@
-[11-Oct-2019 14:59:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/vktr2ds7uck7/times.com.ar/times/deleteme.wpnq52.php:16
-Stack trace:
-#0 {main}
-  thrown in /home/vktr2ds7uck7/times.com.ar/times/deleteme.wpnq52.php on line 16
